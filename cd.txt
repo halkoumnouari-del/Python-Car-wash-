@@ -1,0 +1,1 @@
+cd "c:\Users\nouar\OneDrive\Desktop\AI Degree\paython\car_wash"

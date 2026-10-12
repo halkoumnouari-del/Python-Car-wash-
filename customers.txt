@@ -1,0 +1,2 @@
+C001|Ali Mohamed|0112345678|ali@gmail.com
+C002|Sarah Tan|0129876543|sarah@gmail.com

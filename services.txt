@@ -1,0 +1,3 @@
+S01|Basic Wash|25.0|30
+S02|Interior Cleaning|60.0|45
+S03|Full Detailing|120.0|90
